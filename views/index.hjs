@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+
+
+   <title>Code Demo</title>
+
+    <link rel='stylesheet' href='/stylesheets/grayscale.css' />
+
+    <link rel='stylesheet' href='/stylesheets/bootstrap.min.css' />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+  <!-- Custom Hover Effects CSS -->
+  <link href="stylesheets/hover-min.css" rel="stylesheet">
+
+
+
+  <!-- Custom Fonts -->
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+  </head>
+  <body >
+
+
+      <section id="profile" class="container-fluid text-center">
+<br>
+        <h1 class="code-text">CODE SAMPLE</h1>
+        <br>
+          <div class="row">
+
+              <div class="col-l-8 col-lg-offset-0">
+
+                <img class="img img-responsive"src="https://c2.staticflickr.com/4/3715/32930565063_57da91fbb2_b.jpg" alt="">
+
+
+
+              </div>
+          </div>
+          <div class="row">
+
+              <div class="col-l-8 col-lg-offset-0">
+
+                <img class="img img-responsive" src="https://c1.staticflickr.com/3/2810/33587289832_90a3136d4b_b.jpg" alt="">
+
+
+
+              </div>
+          </div>
+      </section>
+
+      <!-- Footer -->
+      <footer>
+          <div class="container text-left">
+
+
+<a class="btn btn-primary"href="http://138.197.20.54:4002/">Return</a>
+
+          </div>
+      </footer>
+
+
+      <!-- jQuery -->
+      <script src="/javascripts/scripts.js"></script>
+      <script src="/javascripts/jquery.js"></script>
+
+      <!-- Plugin JavaScript -->
+      <script src="/javascripts/jquery.easing.min.js"></script>
+      <!-- Bootstrap Core JavaScript -->
+      <script src="/javascripts/bootstrap.min.js"></script>
+
+      <!--CDN link for  TweenMax-->
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+      <!--ENDBUILD-->
+
+
+      <!-- Custom Theme JavaScript -->
+      <script src="/javascripts/scale.js"></script>
+</body>
+</html>
