@@ -33,7 +33,6 @@
 
               <div class="col-l-8 col-lg-offset-0">
 
-                <img class="img img-responsive"src="https://c2.staticflickr.com/4/3715/32930565063_57da91fbb2_b.jpg" alt="">
 
 
 
@@ -53,12 +52,19 @@
 
       <!-- Footer -->
       <footer>
-          <div class="container text-left">
+        <div class="row">
+          <div class="col-md-5 ">
 
-
-<a class="btn btn-primary"href="http://138.197.20.54:4002/">Return</a>
 
           </div>
+          <div class="col-md-6 ">
+
+         <a class="btn btn-primary"href="http://webstudioplace.com:3002/">View Project</a>
+         <a class="btn btn-primary"href="http://138.197.20.54:4002/">Return</a>
+
+          </div>
+        </div>
+
       </footer>
 
 
