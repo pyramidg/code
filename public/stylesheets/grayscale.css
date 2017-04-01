@@ -385,6 +385,7 @@ footer p {
 }
 
 img::selection {
+
     background: 0 0;
 }
 
@@ -696,4 +697,13 @@ body {
 img{
 margin:auto;
 padding: auto;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.btn {
+    position: relative;
+    top: 50%;
 }
